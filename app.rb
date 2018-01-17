@@ -43,7 +43,7 @@ elsif @operation == "multiply"
 elsif @operation == "divide"
   @num1 / @num2
 end
-  
+
 end
 
 end #of class App
