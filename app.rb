@@ -42,6 +42,8 @@ elsif @operation == "multiply"
   @num1 * @num2
 elsif @operation == "divide"
   @num1 / @num2
+else
+  nil
 end
 
 end
